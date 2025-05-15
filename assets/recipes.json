@@ -1,0 +1,252 @@
+[
+  {
+    "id": 1,
+    "name": "Spaghetti Carbonara",
+    "description": "Classic Italian pasta dish with eggs, cheese, pancetta, and pepper."
+  },
+  {
+    "id": 2,
+    "name": "Chicken Tikka Masala",
+    "description": "Chunks of grilled chicken in a creamy tomato curry sauce."
+  },
+  {
+    "id": 3,
+    "name": "Beef Stroganoff",
+    "description": "Sautéed beef in a sour cream and mushroom sauce served over noodles."
+  },
+  {
+    "id": 4,
+    "name": "Vegetable Stir Fry",
+    "description": "Mixed vegetables quickly cooked in soy sauce and garlic."
+  },
+  {
+    "id": 5,
+    "name": "Tomato Basil Soup",
+    "description": "Smooth and creamy tomato soup with fresh basil."
+  },
+  {
+    "id": 6,
+    "name": "Grilled Cheese Sandwich",
+    "description": "Toasted bread with melted cheese inside."
+  },
+  {
+    "id": 7,
+    "name": "Caesar Salad",
+    "description": "Romaine lettuce tossed with Caesar dressing, croutons, and parmesan."
+  },
+  {
+    "id": 8,
+    "name": "Pancakes",
+    "description": "Fluffy breakfast pancakes served with syrup."
+  },
+  {
+    "id": 9,
+    "name": "Lasagna",
+    "description": "Layered pasta with meat, cheese, and tomato sauce."
+  },
+  {
+    "id": 10,
+    "name": "Fish Tacos",
+    "description": "Grilled fish in tortillas with fresh toppings."
+  },
+  {
+    "id": 11,
+    "name": "Lentil Soup",
+    "description": "Hearty soup made with lentils, vegetables, and spices."
+  },
+  {
+    "id": 12,
+    "name": "Avocado Toast",
+    "description": "Toasted bread topped with mashed avocado and seasonings."
+  },
+  {
+    "id": 13,
+    "name": "Butter Chicken",
+    "description": "Creamy Indian chicken curry with butter and spices."
+  },
+  {
+    "id": 14,
+    "name": "Greek Salad",
+    "description": "Salad with cucumbers, tomatoes, feta, olives, and vinaigrette."
+  },
+  {
+    "id": 15,
+    "name": "French Onion Soup",
+    "description": "Rich beef broth with caramelized onions, topped with cheese toast."
+  },
+  {
+    "id": 16,
+    "name": "Miso Ramen",
+    "description": "Japanese noodle soup with miso broth and toppings."
+  },
+  {
+    "id": 17,
+    "name": "BBQ Ribs",
+    "description": "Slow-cooked pork ribs with barbecue sauce."
+  },
+  {
+    "id": 18,
+    "name": "Pad Thai",
+    "description": "Stir-fried rice noodles with shrimp, eggs, peanuts, and tamarind."
+  },
+  {
+    "id": 19,
+    "name": "Fried Rice",
+    "description": "Rice stir-fried with vegetables, eggs, and soy sauce."
+  },
+  {
+    "id": 20,
+    "name": "Eggplant Parmesan",
+    "description": "Breaded eggplant baked with marinara and mozzarella cheese."
+  },
+  {
+    "id": 21,
+    "name": "Clam Chowder",
+    "description": "Creamy soup made with clams, potatoes, and onions."
+  },
+  {
+    "id": 22,
+    "name": "Stuffed Peppers",
+    "description": "Bell peppers filled with seasoned rice and ground meat."
+  },
+  {
+    "id": 23,
+    "name": "Tuna Casserole",
+    "description": "Baked pasta with tuna, cream sauce, and breadcrumbs."
+  },
+  {
+    "id": 24,
+    "name": "Chili Con Carne",
+    "description": "Spicy stew with ground beef, beans, and tomatoes."
+  },
+  {
+    "id": 25,
+    "name": "Pesto Pasta",
+    "description": "Pasta tossed in fresh basil pesto sauce."
+  },
+  {
+    "id": 26,
+    "name": "Shepherd’s Pie",
+    "description": "Ground meat and veggies topped with mashed potatoes."
+  },
+  {
+    "id": 27,
+    "name": "Gnocchi with Tomato Sauce",
+    "description": "Soft potato dumplings in rich tomato sauce."
+  },
+  {
+    "id": 28,
+    "name": "Chicken Fajitas",
+    "description": "Grilled chicken with peppers and onions in tortillas."
+  },
+  {
+    "id": 29,
+    "name": "Minestrone Soup",
+    "description": "Italian vegetable soup with beans and pasta."
+  },
+  {
+    "id": 30,
+    "name": "Quiche Lorraine",
+    "description": "Savory pie with eggs, cheese, and bacon."
+  },
+  {
+    "id": 31,
+    "name": "Shrimp Scampi",
+    "description": "Shrimp sautéed in garlic butter and wine sauce."
+  },
+  {
+    "id": 32,
+    "name": "Cabbage Rolls",
+    "description": "Cabbage leaves stuffed with meat and rice, baked in sauce."
+  },
+  {
+    "id": 33,
+    "name": "Thai Green Curry",
+    "description": "Spicy coconut curry with vegetables and meat."
+  },
+  {
+    "id": 34,
+    "name": "Baked Ziti",
+    "description": "Pasta baked with tomato sauce and cheese."
+  },
+  {
+    "id": 35,
+    "name": "Crispy Tofu Stir Fry",
+    "description": "Fried tofu with vegetables in a soy-based sauce."
+  },
+  {
+    "id": 36,
+    "name": "Chicken Alfredo",
+    "description": "Creamy Alfredo pasta with grilled chicken."
+  },
+  {
+    "id": 37,
+    "name": "Mushroom Risotto",
+    "description": "Creamy Italian rice with mushrooms and cheese."
+  },
+  {
+    "id": 38,
+    "name": "Sweet and Sour Chicken",
+    "description": "Fried chicken pieces in sweet and sour sauce."
+  },
+  {
+    "id": 39,
+    "name": "Beef Burritos",
+    "description": "Flour tortillas filled with beef, rice, beans, and cheese."
+  },
+  {
+    "id": 40,
+    "name": "Egg Fried Noodles",
+    "description": "Noodles stir-fried with egg and veggies."
+  },
+  {
+    "id": 41,
+    "name": "Chicken Noodle Soup",
+    "description": "Comforting soup with chicken, noodles, and vegetables."
+  },
+  {
+    "id": 42,
+    "name": "Beef Wellington",
+    "description": "Beef fillet wrapped in puff pastry and baked."
+  },
+  {
+    "id": 43,
+    "name": "Falafel Wraps",
+    "description": "Crispy falafel balls in pita with veggies and sauce."
+  },
+  {
+    "id": 44,
+    "name": "Coconut Shrimp Curry",
+    "description": "Shrimp cooked in creamy coconut curry sauce."
+  },
+  {
+    "id": 45,
+    "name": "Cheeseburger",
+    "description": "Grilled beef patty with cheese in a bun."
+  },
+  {
+    "id": 46,
+    "name": "Tofu Pad See Ew",
+    "description": "Wide rice noodles stir-fried with tofu and soy sauce."
+  },
+  {
+    "id": 47,
+    "name": "Bulgogi Beef Bowl",
+    "description": "Korean-style marinated beef over rice."
+  },
+  {
+    "id": 48,
+    "name": "Ratatouille",
+    "description": "Provencal vegetable stew with tomatoes, zucchini, and eggplant."
+  },
+  {
+    "id": 49,
+    "name": "Tortellini in Broth",
+    "description": "Cheese tortellini served in a light broth."
+  },
+  {
+    "id": 50,
+    "name": "Macaroni and Cheese",
+    "description": "Creamy cheese sauce over elbow pasta."
+  }
+]
