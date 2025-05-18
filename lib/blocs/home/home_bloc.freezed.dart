@@ -212,11 +212,11 @@ String toString() {
 
 
 class HomeInitializedState implements HomeState {
-  const HomeInitializedState({required final  List<RecipeModel> recipes}): _recipes = recipes;
+  const HomeInitializedState({required final  List<RecipeViewModel> recipes}): _recipes = recipes;
   
 
- final  List<RecipeModel> _recipes;
- List<RecipeModel> get recipes {
+ final  List<RecipeViewModel> _recipes;
+ List<RecipeViewModel> get recipes {
   if (_recipes is EqualUnmodifiableListView) return _recipes;
   // ignore: implicit_dynamic_type
   return EqualUnmodifiableListView(_recipes);
@@ -253,7 +253,7 @@ abstract mixin class $HomeInitializedStateCopyWith<$Res> implements $HomeStateCo
   factory $HomeInitializedStateCopyWith(HomeInitializedState value, $Res Function(HomeInitializedState) _then) = _$HomeInitializedStateCopyWithImpl;
 @useResult
 $Res call({
- List<RecipeModel> recipes
+ List<RecipeViewModel> recipes
 });
 
 
@@ -273,7 +273,7 @@ class _$HomeInitializedStateCopyWithImpl<$Res>
 @pragma('vm:prefer-inline') $Res call({Object? recipes = null,}) {
   return _then(HomeInitializedState(
 recipes: null == recipes ? _self._recipes : recipes // ignore: cast_nullable_to_non_nullable
-as List<RecipeModel>,
+as List<RecipeViewModel>,
   ));
 }
 
